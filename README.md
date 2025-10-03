@@ -1,2 +1,1 @@
-# Elevate-Labs-Task-8
-Stored Procedures and Function
+Task 8 focuses on creating stored procedures and functions in MySQL using CREATE PROCEDURE and CREATE FUNCTION. It includes the use of parameters to pass values, conditional logic with IF statements, and demonstrates how to return results or perform specific actions in the database. This helps in reusing SQL code, improving efficiency, and organizing business logic inside the database.
